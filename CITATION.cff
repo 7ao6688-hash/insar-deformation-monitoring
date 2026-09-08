@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: Sentinel-1 InSAR Deformation Monitoring
+message: If you use this software, please cite this repository and the underlying Sentinel-1 products.
+type: software
+authors:
+  - family-names: Liu
+    given-names: Xiaoqiao
+version: 0.2.0
+date-released: 2026-09-08
+license: MIT
+repository-code: https://github.com/7ao6688-hash/insar-deformation-monitoring
+
