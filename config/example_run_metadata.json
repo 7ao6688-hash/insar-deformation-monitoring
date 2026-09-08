@@ -1,0 +1,38 @@
+{
+  "project_id": "replace-with-project-id",
+  "provenance": "real-observation",
+  "sensor": "Sentinel-1",
+  "product_type": "SLC",
+  "acquisition_mode": "IW",
+  "polarisation": "VV",
+  "orbit_direction": "ascending-or-descending",
+  "relative_orbit": null,
+  "master_product_id": "replace-with-SAFE-product-id",
+  "slave_product_id": "replace-with-SAFE-product-id",
+  "master_acquisition_utc": "YYYY-MM-DDTHH:MM:SSZ",
+  "slave_acquisition_utc": "YYYY-MM-DDTHH:MM:SSZ",
+  "radar_wavelength_m": 0.055465,
+  "los_sign_convention": "positive-towards-satellite-or-positive-away-from-satellite",
+  "dem": {
+    "name": "replace-with-dem-name",
+    "resolution_m": null,
+    "vertical_datum": "replace-with-datum"
+  },
+  "processing": {
+    "snap_version": "replace-with-version",
+    "precise_orbit_files": true,
+    "tops_esd": true,
+    "goldstein_alpha": null,
+    "snaphu_version": "replace-with-version",
+    "snaphu_mode": "DEFO",
+    "effective_looks": null,
+    "coherence_threshold": 0.35,
+    "terrain_correction_projection": "EPSG:4326"
+  },
+  "validation": {
+    "reference_area_definition": "replace-with-definition",
+    "external_dataset": "GNSS-or-independent-product",
+    "notes": "Document atmospheric, orbital, DEM and unwrapping limitations"
+  }
+}
+
