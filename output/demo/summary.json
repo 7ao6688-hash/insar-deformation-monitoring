@@ -1,0 +1,24 @@
+{
+  "provenance": "synthetic",
+  "observation_count": 432,
+  "minimum_los_displacement_cm": -23.131,
+  "maximum_los_displacement_cm": 56.103,
+  "mean_los_displacement_cm": 8.435,
+  "median_los_displacement_cm": 1.236,
+  "standard_deviation_cm": 19.722,
+  "mean_coherence": 0.795,
+  "alert_threshold_cm": 10.0,
+  "observations_above_threshold": 213,
+  "fraction_above_threshold": 0.4931,
+  "strongest_absolute_displacement": {
+    "longitude": 37.025,
+    "latitude": 37.445,
+    "los_displacement_cm": 56.103
+  },
+  "input_observation_count": 432,
+  "coherence_filtered_count": 432,
+  "robust_outlier_filtered_count": 432,
+  "coherence_weighted_mean_cm": 7.425,
+  "mean_phase_noise_precision_cm": 0.1195,
+  "uncertainty_scope": "phase-noise precision only; excludes atmosphere, orbit, DEM, reference-frame and unwrapping errors"
+}
